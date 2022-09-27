@@ -1,2 +1,2 @@
 # documentacion
-Archivos de ayuda y documetacion de productos
+Archivos de ayuda y documentacion de productos
